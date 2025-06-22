@@ -21,10 +21,5 @@ A responsive and interactive weather application built using **HTML**, **CSS**, 
 
 The API key is accessed securely via a separate JS file and kept **outside the main repo** or hashed in public view to prevent misuse.
 
-## 📸 Preview
-
-_Coming soon: Add a screenshot or live link here_
-
----
 
 Made with ❤️ by [Isha Pandey](https://github.com/IshaPandey3105)
