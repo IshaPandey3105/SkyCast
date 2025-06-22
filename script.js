@@ -31,7 +31,7 @@ function formatDateTime(dateTimeStr) {
 
 async function getData(cityName) {
   const data = await fetch(
-    `http://api.weatherapi.com/v1/current.json?key=${hashedAPIKey}&q=${cityName}&aqi=yes`
+    `https://api.weatherapi.com/v1/current.json?key=${hashedAPIKey}&q=${cityName}&aqi=yes`
   );
   return await data.json();
 }
